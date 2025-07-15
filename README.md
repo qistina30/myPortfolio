@@ -1,135 +1,101 @@
-# Ir. Dr. Prajindra Sankar Krishnan  
+# 👩‍💻 Nur Qistina Binti Mohamed Saifuddin
 
- 
+**Computer Science (Software Engineering) Graduate | Fullstack Developer | System Analyst in Training**
 
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+[📧 ksaifuddin67@gmail.com](mailto:ksaifuddin67@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/nur-qistina-13075324b/) | [🌐 GitHub](https://github.com/qistina30)
 
- 
+---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing in **AI-driven analytics, IoT solutions, smart metering, and predictive energy systems**. With over **15 years of experience**, I have collaborated extensively with **Tenaga Nasional Berhad (TNB)** on projects involving **non-technical loss detection, smart grid optimization, and energy fraud prevention**. My work bridges **academia and industry**, focusing on AI applications that enhance **grid reliability, energy security, and sustainability**.
+I'm a highly driven Computer Science graduate from **Universiti Tenaga Nasional (UNITEN)** with a **CGPA of 3.90**. My passion lies in **system development**, **fullstack solutions**, and **building impactful applications** that solve real-world problems. I've developed Laravel-based systems for **TNB**, designed tools for **autism education**, and created mobile applications with **.NET MAUI**.
 
- 
+I'm actively seeking opportunities in **software development**, **IT support**, or **system analysis**, where I can continue to learn and grow while contributing to meaningful projects.
 
-## 🛠 Technical Skills  
+---
 
-- **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
+## 🛠️ Skills
 
-- **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
+**Languages:**  
+`PHP`, `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `SQL (MySQL)`
 
-- **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
+**Frameworks & Tools:**  
+`Laravel`, `.NET MAUI`, `Microsoft 365`, `SharePoint`, `Figma`, `PHPStorm`, `Visual Studio`, `NetBeans`, `WAMP`, `XAMPP`, `PyCharm`, `WordPress`, `Tableau`
 
-- **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
+**Other Skills:**  
+Content Creation, Video Editing, Photography, Problem-Solving, Analytical Thinking  
+**Languages:** Fluent in Bahasa Malaysia & English
 
-- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
+---
 
- 
+## 💼 Work Experience
 
-## 🎓 Education  
+### 🔧 **Intern | ICT Department, TNB Kota Bharu** (Jul 2024 – Sept 2024)
+- Built the **IT Asset Management System (ITAMS)** using Laravel + MySQL to replace Excel tracking.
+- Participated in system design, planning, and backend development.
+- Supported technical and administrative tasks in the IT Business Support Office.
 
-- **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
+### 📊 **Intern | Business Support Office, TNB** (Jun 2022 – Aug 2022)
+- Contributed to planning the **Meeting Room Booking System**.
+- Handled administrative and project support tasks.
 
-- **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
+---
 
-- **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
+## 📂 Highlighted Projects
 
- 
+### 🧩 Autism E-Learning Platform (2025)
+Developed a sensory-friendly, structured learning platform for children with autism using **Laravel**. Designed with inclusivity and accessibility in mind.
 
-## 💼 Work Experience  
+### 💻 IT Asset Management System – ITAMS (2024)
+A real-world Laravel-based system deployed at TNB to manage and monitor IT assets more efficiently than traditional spreadsheets.
 
-### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
+### 📚 Kampung Pustaka Library System (2024)
+Created a library management system for rural areas to streamline **book cataloging, lending**, and **inventory tracking**.
 
-- Developed AI-powered **non-technical loss detection systems** for TNB, reducing fraud detection time.  
+### 🔥 SkipCal Mobile App (2024)
+Built with **.NET MAUI**, this fitness tracker estimates calories burned during **jump rope workouts**, with an interactive and personalized UI.
 
-- Designed IoT-based **solar-powered monitoring systems** for renewable energy optimization.  
+### 💸 University Students’ Budget Tool (2022)
+Web-based budgeting tool for university students to manage and optimize their financial planning.
 
-- Conducted **technical training & workshops** on AI, IoT, and predictive energy analytics.  
+### 🍕 Pizza Ordering System (2021)
+A C++ application to manage customer orders and restaurant workflow for a local pizza shop.
 
- 
+---
 
-### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
+## 🏆 Achievements
 
-- Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
+- 🎓 **Best Student Award** – Diploma in Computer Science (2023)  
+- 🏅 **Dean’s List Award** – Every semester during Bachelor’s and Diploma (2020–2025)  
+- 🖋️ **DKLS Linguistic Ambassador Award** – National Essay Writing (2019)
 
-- Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
+---
 
- 
+## 🎯 Leadership & Activities
 
-### **Consultancy & Industry Projects**  
+- Vice President, **Secebis Kasih, Sejuta Kenangan** community service program (2023)  
+- Program Secretary, **Grill, Game, and Grow** Class Project (2025)  
+- Committee Member, **UNITEN Sports Championship** (2023)  
+- HR Bureau, **ULTRAS UNITEN Club** (2024)
 
-- **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
+---
 
-- **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
+## 🌱 Currently Learning
 
-- **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
+- Advanced Laravel with Livewire  
+- API Integration & RESTful Services  
+- DevOps and GitHub Actions  
+- UI/UX Prototyping with Figma  
+- Data Visualization with Tableau
 
-- **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
+---
 
- 
+## 📫 Let’s Connect
 
-## 📂 Projects  
+I'm always open to collaboration or mentorship opportunities. Feel free to explore my [GitHub projects](https://github.com/qistina30) or connect with me on [LinkedIn](https://www.linkedin.com/in/nur-qistina-13075324b/). Let's build something impactful together!
 
-### 🔹 AI-Based Renewable Energy Forecasting  
+---
 
-- Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
-- Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
-
- 
-
-### 🔹 AI-Powered Smart Grid Analytics  
-
-- Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
-
-- Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
-
- 
-
-### 🔹 IoT & Smart Metering Solutions  
-
-- Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
-
-- Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
-
- 
-
-## 🎤 Talks & Workshops  
-
-- **AI in Energy Analytics** - UNITEN Industry Forum  
-
-- **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
-
-- **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
-
- 
-
-## 🏆 Publications & Research  
-
-- Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
-
-- **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
-
-- **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
-
- 
-
-## 🏅 Certifications & Professional Memberships  
-
-- **Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)**  
-
-- **Corporate Member - Institute of Engineers Malaysia (IEM)**  
-
-- **Certified Python Programmer for Data Science**  
-
-- **Certified Cybersecurity Specialist**  
-
-- **Industrial IoT (IIoT) Developer**  
-
- 
-
-## 📢 Connect with Me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
-
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
